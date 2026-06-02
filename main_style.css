@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+}
+
+.link-header {
+    text-decoration: none;
+    background-color: blueviolet;
+    color: white;
+    padding: 5px;
+    box-shadow: 5px 5px 0 0 brown ;
+}
+
+.link-header:hover {
+    color: red;
+    background-color: bisque;
+    box-shadow:  5px 5px 0 0 blue;
+}
+
+h1 {
+    text-align: center;
+    color: steelblue;
+}
+
+ul {
+    margin-left: 
+}
+
+h1:hover {
+    color: maroon;
+    transition: 1s all linear;
+    font-size: 50px;
+}
+
+p:hover {
+    color: maroon;
+    transition: 1s all linear;
+    font-size: 30px;
+
+}
+ a {
+    text-decoration: none;
+    color: black;
+ }
+
+ p {
+    font-size: 18px;
+ }
